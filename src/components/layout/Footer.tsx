@@ -86,19 +86,24 @@ export function Footer() {
           {/* Column 2 - Technology Partner */}
           <div className="px-4">
             <div className="space-y-4">
-              <h3 className="text-xl font-bold">Technology Partner</h3>
+              <h3 className="text-xl font-bold">{t('footer.technologyPartner.title', 'Technology Partner')}</h3>
+              <img 
+                src="/images/yukti.png" 
+                alt="Yukti Tech Solution" 
+                className="h-12 w-auto object-contain"
+              />
               <p className="font-bold">Yukti Tech Solution</p>
               <div className="text-sm space-y-3">
-                <p>Yukti Tech Solution provides technology support to BioScrap, including:</p>
+                <p>{t('footer.technologyPartner.description', 'Yukti Tech Solution provides technology support to BioScrap, including:')}</p>
                 <ul className="space-y-2 pl-4">
                   <li className="relative pl-2">
-                    <span className="absolute left-0">•</span> Website & technology development
+                    <span className="absolute left-0">•</span> {t('footer.technologyPartner.services.development', 'Website & technology development')}
                   </li>
                   <li className="relative pl-2">
-                    <span className="absolute left-0">•</span> Technical maintenance & support
+                    <span className="absolute left-0">•</span> {t('footer.technologyPartner.services.maintenance', 'Technical maintenance & support')}
                   </li>
                   <li className="relative pl-2">
-                    <span className="absolute left-0">•</span> Digital systems enablement
+                    <span className="absolute left-0">•</span> {t('footer.technologyPartner.services.digitalSystems', 'Digital systems enablement')}
                   </li>
                 </ul>
                 <div>
@@ -145,7 +150,7 @@ export function Footer() {
 
           {/* Column 4 - Director & CEO */}
           <div className="px-4">
-            <h3 className="text-xl font-bold mb-4">Director & CEO</h3>
+            <h3 className="text-xl font-bold mb-4">{t('footer.director.title')}</h3>
             <div className="space-y-3 text-sm">
               <p className="font-bold text-primary-foreground">Harshad V. Renapure</p>
               <a href="tel:9607195770" className="block text-primary-foreground/80 hover:text-primary transition-colors">

@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
@@ -349,8 +350,10 @@ export default function Contact() {
             <p className="text-muted-foreground mb-4">
               {t("contact.faq.subtitle", "Check out our frequently asked questions for instant help.")}
             </p>
-            <Button variant="outline" size="lg">
-              {t("contact.faq.button", "View FAQs")}
+            <Button variant="outline" size="lg" asChild>
+              <Link to="/faq">
+                {t("contact.faq.button", "View FAQs")}
+              </Link>
             </Button>
           </div>
         </div>

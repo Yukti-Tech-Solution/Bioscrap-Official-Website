@@ -139,7 +139,7 @@ const ScrapSelection = () => {
                 {t('scrapSelection.selected', 'Selected types')}
               </span>
               {selectedTypes.length > 0 && (
-                <p className="text-sm text-muted-foreground sm:hidden">
+                <p className="text-sm text-muted-foreground sm:hidden max-w-[100px] truncate">
                   {selectedTypes.map(id => t(`scrapTypes.${id}`, id)).join(', ')}
                 </p>
               )}

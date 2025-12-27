@@ -293,6 +293,18 @@
       "title": "Looking for quick answers?",
       "subtitle": "Check out our frequently asked questions for instant help.",
       "button": "View FAQs"
+    },
+    "technologyPartner": {
+      "title": "Technology Partner",
+      "description": "Yukti Tech Solution provides technology support to BioScrap, including:",
+      "services": {
+        "development": "Website & technology development",
+        "maintenance": "Technical maintenance & support",
+        "digitalSystems": "Digital systems enablement"
+      }
+    },
+    "director": {
+      "title": "Director & CEO"
     }
   },
   "shop": {
@@ -589,8 +601,17 @@
       "faq": "FAQs"
     },
     "director": {
-      "title": "Director",
+      "title": "Director & CEO",
       "name": "Harshad V. Renapure"
+    },
+    "technologyPartner": {
+      "title": "Technology Partner",
+      "description": "Yukti Tech Solution provides technology support to BioScrap, including:",
+      "services": {
+        "development": "Website & technology development",
+        "maintenance": "Technical maintenance & support",
+        "digitalSystems": "Digital systems enablement"
+      }
     },
     "contact": "Contact Us",
     "rights": "© 2025 BioScrap – All rights reserved.",
