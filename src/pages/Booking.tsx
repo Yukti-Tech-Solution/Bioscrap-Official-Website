@@ -195,9 +195,9 @@ export default function Booking({ mode = "waste" }: BookingProps) {
     try {
       const pickupType = mode === "scrap" ? "Scrap Collection" : "Waste Collection";
       const timeSlotLabels: Record<string, string> = {
-        morning: t('booking.schedule.range.morning', "8:00 AM - 12:00 PM"),
-        afternoon: t('booking.schedule.range.afternoon', "12:00 PM - 4:00 PM"),
-        evening: t('booking.schedule.range.evening', "4:00 PM - 8:00 PM"),
+        morning: "Morning (8–12)",
+        afternoon: "Afternoon (12–4)",
+        evening: "Evening (4–8)",
       };
       const scrapLabelMap: Record<string, string> = {
         plastic: "Plastic",
@@ -213,6 +213,14 @@ export default function Booking({ mode = "waste" }: BookingProps) {
         mode === "scrap" && location.state?.weightKg
           ? scrapWeights.find((w) => w.id === String(location.state.weightKg))?.label || ""
           : "";
+      
+      // Format date to DD/MM/YYYY
+      const formatDate = (dateString: string) => {
+        if (!dateString) return "";
+        const [year, month, day] = dateString.split("-");
+        return `${day}/${month}/${year}`;
+      };
+
       const params = new URLSearchParams();
       params.append("entry.1767192312", pickupType);
       
@@ -227,13 +235,13 @@ export default function Booking({ mode = "waste" }: BookingProps) {
       }
 
       params.append("entry.1116300774", scrapWeightText);
-      params.append("entry.1182830561", data.date);
+      params.append("entry.1182830561", formatDate(data.date));
       params.append("entry.1703005937", timeSlotLabels[data.timeSlot] || data.timeSlot);
       params.append("entry.787567804", data.address);
       params.append("entry.1293599527", data.city);
       params.append("entry.1038690936", data.pincode);
       params.append("entry.725083768", data.name);
-      params.append("entry.1911832101", `+91${data.phone}`);
+      params.append("entry.1911832101", data.phone);
       params.append("entry.1330318541", data.email);
       params.append("entry.1782142757", data.instructions ?? "");
       await fetch(
