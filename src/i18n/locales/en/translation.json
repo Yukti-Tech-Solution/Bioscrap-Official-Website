@@ -1,0 +1,629 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "bookPickup": "Book Pickup"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "shop": "Shop",
+    "cart": "Cart",
+    "bookPickup": "Book Pickup"
+  },
+  "cartPage": {
+    "title": "Your Cart",
+    "subtitle": "Review your items and proceed to checkout.",
+    "empty": "Your cart is empty",
+    "emptyDesc": "Add products from the shop and they will appear here.",
+    "goToShop": "Go to Shop",
+    "subtotal": "Subtotal",
+    "delivery": "Delivery",
+    "total": "Total",
+    "checkout": "Place Order"
+  },
+  "faqPage": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our services",
+    "ctaTitle": "Still have questions?",
+    "ctaDesc": "Feel free to reach out to us directly",
+    "callUs": "Call Us: 9607195770",
+    "whatsappUs": "WhatsApp Us",
+    "items": [
+      {
+        "question": "What types of waste do you collect?",
+        "answer": "We collect all types of waste including wet waste (kitchen waste, garden waste), dry waste (paper, plastic, metal, glass), recyclables, e-waste (electronic items), and organic waste. We segregate everything properly for appropriate processing."
+      },
+      {
+        "question": "What areas do you serve?",
+        "answer": "We primarily serve Ambajogai and surrounding areas in Beed district, Maharashtra. We are expanding our services to nearby villages and towns. Contact us to check if we serve your area."
+      },
+      {
+        "question": "How do I schedule a pickup?",
+        "answer": "You can schedule a pickup by clicking the 'Book Pickup' button on our website, calling us at 9607195770, or messaging us on WhatsApp. We offer regular daily/weekly schedules or one-time pickups as per your needs."
+      },
+      {
+        "question": "What are your collection timings?",
+        "answer": "We collect waste daily during morning hours (7 AM - 11 AM) for residential areas and flexible timings for commercial establishments. Regular schedules are maintained for subscribed customers."
+      },
+      {
+        "question": "What happens to the collected waste?",
+        "answer": "Collected waste is segregated at our facility. Wet waste goes to our bio-composting unit where it's converted into organic manure. Dry waste is sent to authorized recycling partners. E-waste is disposed through proper channels ensuring environmental safety."
+      },
+      {
+        "question": "Do you provide bio-compost? How can I purchase it?",
+        "answer": "Yes! We produce high-quality bio-compost from wet waste. You can purchase it through our Shop page or by contacting us directly. Available in 5kg, 10kg, and 25kg bags. Great for gardens, farms, and potted plants."
+      },
+      {
+        "question": "What are your service charges?",
+        "answer": "Service charges vary based on the type of service, frequency, and quantity of waste. Residential services start from affordable monthly plans. Contact us at 9607195770 for a customized quote for your needs."
+      },
+      {
+        "question": "How does waste segregation help the environment?",
+        "answer": "Proper waste segregation reduces landfill burden, enables effective recycling, prevents soil and water pollution, reduces greenhouse gas emissions from decomposing waste, and helps create valuable compost from organic waste. It's crucial for a sustainable future."
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "tagline": "Sustainable Waste Management",
+      "title": "Turn Bio-Waste into",
+      "titleHighlight": "Green Gold",
+      "description": "Professional waste management and scrap collection services for homes and businesses. Together, we're building a sustainable future.",
+      "schedulePickup": "Schedule Pickup",
+      "viewServices": "View Services",
+      "scrollExplore": "Scroll to explore"
+    },
+    "stats": {
+      "waste": "Waste Collected",
+      "co2": "CO2 Saved",
+      "homes": "Homes Served",
+      "partners": "Partners"
+    },
+    "features": {
+      "title": "Why Choose Bioscrap?",
+      "subtitle": "Comprehensive waste management solutions",
+      "collection": { "title": "Green Zone Collection", "description": "Agricultural waste, garden trimmings, and organic materials collected from your doorstep." },
+      "composting": { "title": "Bio-Composting", "description": "Transform organic waste into nutrient-rich compost through our advanced processing." },
+      "analytics": { "title": "Scrap Collection", "description": "We ensure transparent pricing and maximum value for your recyclable scrap through reliable and efficient collection." },
+      "rental": { "title": "Container Rental", "description": "Various bin sizes for residential and commercial needs with flexible rental terms." },
+      "pickup": { "title": "Scheduled Pickups", "description": "Reliable and timely collection services tailored to your schedule." },
+      "education": { "title": "Education & Resources", "description": "Learn about waste segregation, composting, and environmental impact." }
+    },
+    "steps": {
+      "title": "How It Works",
+      "subtitle": "Simple steps to a greener future",
+      "step1": { "title": "Schedule Pickup", "description": "Book online or call us. Choose your preferred date, time, and waste type." },
+      "step2": { "title": "We Collect & Sort", "description": "Our team arrives on schedule, collects your bio-waste, and properly segregates it." },
+      "step3": { "title": "Transform to Compost", "description": "Your waste is processed into premium organic compost and fertilizers." }
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "santosh": {
+        "name": "Santosh Waghalkar",
+        "content": "Bio-Scrap has transformed how we handle waste at our enterprise. Their door-to-door collection service is reliable and professional. The team is punctual and the bio-compost we purchase from them is excellent quality. Highly recommended for Ambajogai businesses!",
+        "role": "Owner of Sakshi Enterprises",
+        "rating": 5
+      },
+      "priya": {
+        "name": "Priya Deshmukh",
+        "content": "Finally, a proper waste management service in our area! The daily pickup schedule is very convenient and knowing our kitchen waste becomes compost makes me feel good. The staff is courteous and professional.",
+        "role": "Homemaker, Ambajogai",
+        "rating": 5
+      },
+      "amit": {
+        "name": "Dr. Amit Bhosale",
+        "content": "As a healthcare professional, I appreciate Bio-Scrap's systematic approach to waste management. They handle different waste types properly and their contribution to keeping Ambajogai clean is commendable. Excellent service!",
+        "role": "Medical Practitioner",
+        "rating": 5
+      }
+    },
+    "cta": {
+      "title": "Ready to Make a Difference?",
+      "subtitle": "Join thousands of others in creating a cleaner, greener planet.",
+      "button": "Get Started Today"
+    }
+  },
+  "about": {
+    "director": {
+      "name": "Harshad V. Renapure",
+      "title": "Director and CEO, BioScrap",
+      "description": [
+        "Harshad Vishnu Renapure is the Director of BioScrap, bringing a strong blend of grassroots values, technical curiosity, and a sustainability-driven mindset. His educational journey began at Yogeshwari Vidyalaya, Ambajogai, where he completed his schooling from 1st to 10th standard, building a disciplined foundation rooted in learning, ethics, and community responsibility.",
+        "With a keen interest in technology and real-world problem solving, Harshad continued his academic and technical growth by exploring interdisciplinary domains including engineering, automation, and applied technologies. His exposure to hands-on technical training and modern tools shaped his understanding of how innovation can directly address local and environmental challenges.",
+        "Driven by the belief that waste should be treated as a resource—not a burden—he took the initiative to co-found and lead BioScrap. Under his direction, BioScrap focuses on professional waste management, scrap collection, and sustainable practices tailored for households and businesses. His vision is clear: combine technology, discipline, and environmental responsibility to build a cleaner, more sustainable future—starting at the local level and scaling with impact."
+      ]
+    },
+    "hero": {
+      "badge": "About Us",
+      "title": "About BioScrap",
+      "subtitle": "Making India clean, green, and sustainable — starting from our own city.",
+      "description": "BioScrap is a waste management and bio-products startup based in Ambajogai. We believe waste is not useless. When managed properly, waste becomes a valuable resource."
+    },
+    "mission": {
+      "badge": "What We Do",
+      "title": "Complete Waste Management Solutions",
+      "description": "We provide complete waste management solutions for homes, shops, offices, and institutions.",
+      "list": [
+        "Collect wet waste such as kitchen waste, food waste, and garden waste",
+        "Collect dry waste such as plastic, paper, metal, and glass",
+        "Collect scrap and recyclable materials",
+        "Ensure proper waste segregation",
+        "Process waste responsibly instead of dumping it in landfills"
+      ]
+    },
+    "values": {
+      "wasteManagement": { "title": "Waste Management", "description": "Complete solutions for homes, shops, offices, and institutions." },
+      "bioProducts": { "title": "Bio Products", "description": "Converting organic waste into valuable resources." },
+      "organicCompost": { "title": "Organic Compost", "description": "High-quality compost for healthier soil and plants." },
+      "cleanIndia": { "title": "Clean India Mission", "description": "Contributing to a cleaner, greener India." }
+    },
+    "impact": {
+      "badge": "Benefits to You",
+      "title": "Why Choose BioScrap?",
+      "clean": { "value": "Clean", "label": "Surroundings" },
+      "pickup": { "value": "Door-to-Door", "label": "Waste Pickup" },
+      "smell": { "value": "Scrap", "label": "Collection" },
+      "compost": { "value": "Organic", "label": "Bio-Compost" }
+    },
+    "journey": {
+      "badge": "Our Journey",
+      "title": "From Idea to Impact",
+      "milestones": [
+        { "year": "Benefit", "event": "Reduces soil and plastic pollution" },
+        { "year": "Benefit", "event": "Reduces waste going to landfills" },
+        { "year": "Benefit", "event": "Promotes reuse and recycling" },
+        { "year": "Benefit", "event": "Supports Swachh Bharat Abhiyan" },
+        { "year": "Benefit", "event": "Creates local green employment" },
+        { "year": "Benefit", "event": "Encourages circular economy" }
+      ]
+    },
+    "team": {
+      "badge": "Our Team",
+      "title": "Meet the Green Team",
+      "subtitle": "Passionate experts dedicated to making bio-waste management accessible and impactful.",
+      "member": { "name": "Our Process", "role": "Step {{step}}", "description1": "Door-to-door collection on a fixed schedule", "description2": "Proper segregation of wet and dry waste", "description3": "Bio-processing of wet waste into organic compost", "description4": "Recycling of plastic, metal, and other materials" }
+    },
+    "awards": {
+      "title": "Recognized Excellence",
+      "subtitle": "Our commitment to quality and sustainability has earned us industry recognition.",
+      "items": ["MSME Certified", "Green Business", "Zero Waste", "Carbon Neutral"]
+    },
+    "cta": {
+      "title": "Join Our Green Mission",
+      "description": "Whether you're a customer, partner, or potential team member, there's a place for you in our sustainable journey.",
+      "start": "Start Today",
+      "partner": "Partner With Us"
+    }
+  },
+  "services": {
+    "hero": {
+      "badge": "Our Services",
+      "title": "Sustainable Solutions for Every Need",
+      "description": "From collection to composting, we offer comprehensive bio-waste management services tailored to your specific requirements."
+    },
+    "grid": {
+      "title": "Choose Your Service",
+      "description": "Select from our range of services or combine them for a complete waste management solution.",
+      "mostPopular": "Most Popular",
+      "getStarted": "Get Started"
+    },
+    "cards": {
+      "greenZone": {
+        "title": "Green Zone Collection",
+        "description": "Comprehensive collection of agricultural waste, garden trimmings, leaves, and organic materials from residential and commercial properties.",
+        "features": ["Weekly scheduled pickups", "Same-day collection available", "Specialized bins provided", "GPS-tracked vehicles"],
+        "price": "From ₹2,399/month"
+      },
+      "bioComposting": {
+        "title": "Bio-Composting",
+        "description": "Transform your organic waste into premium quality compost through our state-of-the-art composting facilities.",
+        "features": ["Aerobic composting", "Vermicomposting", "Temperature-controlled process", "Quality tested output"],
+        "price": "From ₹899/month"
+      },
+      "foodWaste": {
+        "title": "Food Waste Collection",
+        "description": "Specialized collection services for restaurants, hotels, and food processing units with daily pickup options.",
+        "features": ["Sealed containers", "Odor-controlled transport", "Daily/weekly options", "Compliance certificates"],
+        "price": "From ₹8,199/month"
+      },
+      "wasteAnalytics": {
+        "title": "Waste Analytics",
+        "description": "Real-time tracking and detailed analytics dashboard to monitor your waste management and environmental impact.",
+        "features": ["Live tracking dashboard", "Monthly impact reports", "Carbon footprint analysis", "Waste reduction insights"],
+        "price": "From ₹1,599/month"
+      },
+      "containerRental": {
+        "title": "Container Rental",
+        "description": "Flexible bin and container rental services for various waste volumes, from small home bins to large commercial skips.",
+        "features": ["Multiple sizes available", "Flexible rental terms", "Free delivery", "Regular maintenance"],
+        "price": "From ₹1,249/month"
+      },
+      "organicFertilizers": {
+        "title": "Organic Fertilizers",
+        "description": "Purchase our premium organic fertilizers and soil conditioners made from processed bio-waste.",
+        "features": ["Chemical-free products", "Various grades available", "Bulk ordering", "Home delivery"],
+        "price": "From ₹99/bag"
+      }
+    },
+    "customers": {
+      "badge": "Who We Serve",
+      "title": "Solutions for Every Sector",
+      "description": "We cater to diverse sectors with customized waste management solutions.",
+      "types": {
+        "residential": { "title": "Residential", "description": "Perfect for homes and apartments looking to manage kitchen and garden waste sustainably." },
+        "commercial": { "title": "Commercial", "description": "Tailored solutions for offices, malls, and commercial complexes with high-volume needs." },
+        "industrial": { "title": "Industrial", "description": "Large-scale waste management for factories and manufacturing units." },
+        "agricultural": { "title": "Agricultural", "description": "Specialized services for farms, nurseries, and agricultural operations." },
+        "retail": { "title": "Retail", "description": "Waste management services for retail stores, supermarkets, and shopping centers." }
+      }
+    },
+    "cta": {
+      "title": "Ready to Make a Difference?",
+      "description": "Join us in our mission to create a cleaner, sustainable future. Whether you need residential pickup or commercial waste management, we have the right solution for you.",
+      "consultation": "Get Free Consultation",
+      "schedule": "Schedule Pickup"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Get In Touch",
+      "title": "Let's Start a Conversation",
+      "description": "Have questions about our services? We're here to help you start your sustainable journey."
+    },
+    "info": {
+      "title": "Contact Information",
+      "phone": { "title": "Phone", "value": "9607195770", "desc": "Mon-Sat: 8am - 6pm" },
+      "email": { "title": "Email", "value": "Bioscrapp@gmail.com", "desc": "We reply within 24 hours" },
+      "office": { "title": "Office", "value": "Bioscrap Office, Gandhi Nagar, Ambajogai", "desc": "Tq. Ambajogai, Dist. Beed, Maharashtra – PIN 431517" },
+      "hours": { "title": "Working Hours", "value": "Mon - Sat", "desc": "8:00 AM - 6:00 PM" }
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "subtitle": "Fill out the form below and we'll get back to you shortly.",
+      "name": "Full Name *",
+      "email": "Email Address *",
+      "phone": "Phone Number *",
+      "service": "Service Interest",
+      "servicePlaceholder": "Select a service",
+      "message": "Your Message *",
+      "messagePlaceholder": "Tell us how we can help you",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "successTitle": "Message Sent Successfully!",
+      "successDesc": "We'll get back to you within 24 hours.",
+      "services": {
+        "waste": "Waste Collection",
+        "scrap": "Scrap Collection",
+        "composting": "Bio-Composting",
+        "containers": "Container Rental",
+        "other": "Other"
+      }
+    },
+    "faq": {
+      "title": "Looking for quick answers?",
+      "subtitle": "Check out our frequently asked questions for instant help.",
+      "button": "View FAQs"
+    },
+    "technologyPartner": {
+      "title": "Technology Partner",
+      "description": "Yukti Tech Solution provides technology support to BioScrap."
+    },
+    "director": {
+      "title": "Director & CEO"
+    }
+  },
+  "shop": {
+    "hero": {
+      "title": "Bioscrap Shop – Sustainable products for a greener lifestyle",
+      "description": "Explore eco-friendly products that complement your waste management journey."
+    },
+    "comingSoon": {
+      "title": "Products Coming Soon",
+      "description": "We are preparing sustainable products for you. Stay tuned."
+    }
+  },
+  "booking": {
+    "waste": {
+      "title": "Book Bio-Waste Pickup",
+      "subtitle": "Schedule your bio-waste collection in just a few simple steps."
+    },
+    "scrap": {
+      "title": "Schedule Scrap Pickup",
+      "subtitle": "Choose a convenient time for us to collect your recyclables."
+    },
+    "steps": {
+      "wasteType": "Waste Type",
+      "schedule": "Schedule",
+      "location": "Location",
+      "details": "Details"
+    },
+    "wasteType": {
+      "title": "What type of waste do you have?",
+      "subtitle": "Select the primary type of bio-waste for collection.",
+      "kitchen": "Kitchen Waste",
+      "kitchenDesc": "Food scraps, vegetable peels, etc.",
+      "garden": "Garden Waste",
+      "gardenDesc": "Leaves, grass, branches",
+      "agricultural": "Agricultural Waste",
+      "agriculturalDesc": "Crop residues, farm waste",
+      "commercial": "Commercial Food",
+      "commercialDesc": "Restaurant & hotel waste",
+      "containerSize": "Select Container Size",
+      "small": "Small",
+      "medium": "Medium",
+      "large": "Large",
+      "commercialSize": "Commercial",
+      "price": "₹{{price}}/mo"
+    },
+    "schedule": {
+      "title": "When should we pick up?",
+      "subtitle": "Choose your preferred date and time slot.",
+      "date": "Pickup Date",
+      "timeSlot": "Time Slot",
+      "morning": "Morning",
+      "afternoon": "Afternoon",
+      "evening": "Evening",
+      "range": {
+        "morning": "8:00 AM - 12:00 PM",
+        "afternoon": "12:00 PM - 4:00 PM",
+        "evening": "4:00 PM - 8:00 PM"
+      }
+    },
+    "location": {
+      "title": "Where should we collect?",
+      "subtitle": "Enter your pickup location details.",
+      "address": "Full Address",
+      "addressPlaceholder": "Enter your street address, building, floor...",
+      "city": "City",
+      "cityPlaceholder": "City",
+      "pincode": "PIN Code",
+      "pincodePlaceholder": "6 digits"
+    },
+    "details": {
+      "title": "Your Contact Details",
+      "subtitle": "We'll use this to confirm your booking.",
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "phonePlaceholder": "XXXXXXXXXX",
+      "email": "Email Address",
+      "instructions": "Special Instructions (Optional)",
+      "instructionsPlaceholder": "Gate code, specific directions, etc."
+    },
+    "buttons": {
+      "prev": "Previous",
+      "next": "Next Step",
+      "confirm": "Confirm Booking",
+      "backHome": "Back to Home",
+      "showReceipt": "Show Receipt"
+    },
+    "success": {
+      "title": "Booking Confirmed!",
+      "message": "Thank you for choosing Bio-Scrap. We've sent a confirmation email with all the details.",
+      "pickupDetails": "Pickup Details",
+      "type": "Type",
+      "wasteCategory": "Waste Category",
+      "scrapItems": "Scrap Items",
+      "itemsSelected": "items selected",
+      "date": "Date",
+      "timeSlot": "Time Slot",
+      "container": "Container"
+    },
+    "validation": {
+      "required": "This field is required",
+      "date": "Please select a date",
+      "timeSlot": "Please select a time slot",
+      "address": "Please enter your full address",
+      "city": "Please enter your city",
+      "pincode": "Pincode must be exactly 6 digits",
+      "name": "Please enter your name",
+      "email": "Please enter a valid email",
+      "phone": "Please enter a valid 10-digit mobile number"
+    }
+  },
+  "pickupSelection": {
+    "title": "Select Pickup Type",
+    "subtitle": "Choose the type of pickup you need"
+  },
+  "pickupCards": {
+    "title": "Choose Your Pickup Type",
+    "subtitle": "Select the type of waste you need us to collect. We handle both organic waste and recyclable scrap with dedicated processes for each.",
+    "waste": {
+      "title": "Bio-Waste Pickup",
+      "subtitle": "Schedule regular bio-waste collection",
+      "description": "Scheduled collection for kitchen waste, garden trimmings, and organic matter. Perfect for homes and restaurants.",
+      "button": "Schedule Pickup",
+      "badge": "Coming Soon"
+    },
+    "scrap": {
+      "title": "Scrap Collection",
+      "subtitle": "Convert your recyclable scrap into value",
+      "description": "We collect paper, plastic, metal, and e-waste. Get paid for your recyclables while helping the planet.",
+      "button": "Book Scrap Pickup"
+    }
+  },
+  "scrapSelection": {
+    "title": "What would you like to sell?",
+    "subtitle": "Select all the categories of scrap you have available. We offer competitive rates for all recyclable materials.",
+    "continue": "Continue to Schedule",
+    "selected": "Selected types",
+    "types": {
+      "paper": "Paper & Cardboard",
+      "plastic": "Plastic Waste",
+      "metal": "Metals (Iron/Alu)",
+      "ewaste": "E-Waste",
+      "glass": "Glass Bottles",
+      "clothes": "Old Clothes"
+    },
+    "notAccepting": "Currently not accepting"
+  },
+  "scrapContainer": {
+    "title": "Select Container",
+    "subtitle": "Choose a suitable container size for your selected scrap.",
+    "note": "No pricing shown for scrap pickup. Select the size that best fits your recyclables."
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "phone": "Please enter a valid phone number",
+    "minLength": "Minimum length is {{count}} characters",
+    "maxLength": "Maximum length is {{count}} characters"
+  },
+  "scrapTypes": {
+    "plastic": "Plastic",
+    "paper": "Paper",
+    "metal": "Metal",
+    "electronics": "Electronics",
+    "glass": "Glass",
+    "fiber": "Fiber/Cloth",
+    "rubber": "Rubber/Tires",
+    "wood": "Wood",
+    "desc": {
+      "plastic": "Bottles, containers, bags",
+      "paper": "Newspapers, cardboard, books",
+      "metal": "Aluminum, iron, copper",
+      "electronics": "Old phones, cables, batteries",
+      "glass": "Bottles, jars, broken glass",
+      "fiber": "Old clothes, fabric scraps",
+      "rubber": "Old tires, rubber products",
+      "wood": "Furniture, wooden items"
+    }
+  },
+  "scrapWeight": {
+    "title": "Select Scrap Weight",
+    "subtitle": "Choose approximate total scrap weight in kilograms (kg).",
+    "note": "Pick an estimate so we can plan capacity.",
+    "options": {
+      "5-10kg": "5 – 10 kg",
+      "10-25kg": "10 – 25 kg",
+      "25-50kg": "25 – 50 kg",
+      "50-100kg": "50 – 100 kg"
+    },
+    "validation": {
+      "required": "Please select a scrap weight to continue"
+    }
+  },
+  "receipt": {
+    "title": "Booking Receipt",
+    "subtitle": "Keep this for your records."
+  },
+  "common": {
+    "close": "Close",
+    "selectLanguage": "Select Language",
+    "loading": "Loading...",
+    "continue": "Continue",
+    "clearAll": "Clear All",
+    "optional": "optional"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our services",
+    "items": [
+      {
+        "question": "What types of waste do you collect?",
+        "answer": "We collect all types of waste including wet waste (kitchen waste, garden waste), dry waste (paper, plastic, metal, glass), and e-waste. Our services are designed to handle both organic and inorganic waste through proper segregation and processing."
+      },
+      {
+        "question": "What areas do you serve?",
+        "answer": "We currently serve Ambajogai and surrounding areas in Beed district. Our services are available for both residential and commercial establishments within our service area."
+      },
+      {
+        "question": "How do I schedule a pickup?",
+        "answer": "You can schedule a pickup through our website, mobile app, or by calling our customer service. Simply select your preferred date and time slot, and our team will arrive as scheduled."
+      },
+      {
+        "question": "What are your collection timings?",
+        "answer": "We offer flexible collection timings from 8:00 AM to 8:00 PM, seven days a week. You can choose a convenient time slot when scheduling your pickup."
+      },
+      {
+        "question": "What happens to the collected waste?",
+        "answer": "Collected waste is carefully segregated. Organic waste is processed into high-quality compost, while recyclable materials are sent to authorized recycling facilities. E-waste is handled by certified recyclers following all environmental norms."
+      },
+      {
+        "question": "Do you provide bio-compost? How can I purchase it?",
+        "answer": "Yes, we produce premium quality bio-compost from processed organic waste. You can purchase it directly from our facility or through our online store. We offer various packaging options (5kg, 10kg, 25kg) for home and commercial use."
+      },
+      {
+        "question": "What are your service charges?",
+        "answer": "Our service charges vary based on the type and quantity of waste, frequency of collection, and additional services required. Please contact our customer care for a customized quote based on your specific needs."
+      },
+      {
+        "question": "How does waste segregation help the environment?",
+        "answer": "Proper waste segregation reduces landfill burden, minimizes pollution, conserves resources through recycling, and enables effective composting. It's a crucial step towards sustainable waste management and environmental protection."
+      }
+    ]
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtitle": "Complete your order in a few simple steps.",
+    "steps": {
+      "details": "Details",
+      "address": "Address",
+      "summary": "Summary",
+      "payment": "Payment"
+    },
+    "details": {
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email (optional)"
+    },
+    "address": {
+      "deliveryAddress": "Delivery Address",
+      "instructions": "Instructions"
+    },
+    "summary": {
+      "title": "Order Summary",
+      "total": "Total"
+    },
+    "payment": {
+      "title": "Payment Mode",
+      "cod": "Cash on Delivery",
+      "online": "Online (coming soon)",
+      "placeOrder": "Place Order"
+    },
+    "buttons": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "confirmation": {
+      "title": "Order Confirmed!",
+      "message": "Thank you for shopping with Bio-Scrap. We will contact you shortly to confirm delivery.",
+      "backToHome": "Back to Home"
+    }
+  },
+  "footer": {
+    "brand": "Bio-Scrap",
+    "tagline": "Turning Waste into Resources for a Greener Tomorrow.",
+    "description": "Sustainable scrap collection and bio-waste solutions across Maharashtra.",
+    "address": "Bioscrap Office, Gandhi Nagar, Ambajogai, Tq. Ambajogai, Dist. Beed, Maharashtra – PIN 431517",
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "services": "Services",
+      "about": "About Us",
+      "contact": "Contact",
+      "shop": "Shop",
+      "bookPickup": "Book Pickup",
+      "faq": "FAQs"
+    },
+    "director": {
+      "title": "Director & CEO",
+      "name": "Harshad V. Renapure"
+    },
+    "technologyPartner": {
+      "title": "Technology Partner",
+      "description": "Yukti Tech Solution provides technology support to BioScrap:"
+    },
+    "contact": "Contact Us",
+    "rights": "© 2025 BioScrap – All rights reserved.",
+    "poweredBy": "Powered by"
+  },
+  "errors": {
+    "title": "Error",
+    "submit": "Failed to submit form. Please try again or contact support."
+  }
+}
